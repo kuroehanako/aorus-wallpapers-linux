@@ -3,12 +3,14 @@ AORUS Wallpapers for Linux Desktop
 
 ## Usage
 
+* Go to scripts directory to run script.
+
 ```
 # for KDE Plasma
-sudo ./scripts/install_kde.sh
+sudo ./install_kde.sh
 
 # for GNOME
-sudo ./scripts/install_gnome.sh
+sudo ./install_gnome.sh
 ```
 
 ## Sources
