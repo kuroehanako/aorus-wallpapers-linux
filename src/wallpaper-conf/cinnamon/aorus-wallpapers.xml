@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "cinnamon-wp-list.dtd">
+<wallpapers>
+  <wallpaper>
+    <name>AORUS Game Start</name>
+    <filename>/usr/share/backgrounds/aorus/aorus-gamestart.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#023c88</pcolor>
+    <scolor>#5789ca</scolor>
+  </wallpaper>
+  <wallpaper>
+    <name>AORUS Logo</name>
+    <filename>/usr/share/backgrounds/aorus/aorus-logo.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#023c88</pcolor>
+    <scolor>#5789ca</scolor>
+  </wallpaper>
+  <wallpaper>
+    <name>AORUS Neon</name>
+    <filename>/usr/share/backgrounds/aorus/aorus-neon.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#023c88</pcolor>
+    <scolor>#5789ca</scolor>
+  </wallpaper>
+  <wallpaper>
+    <name>AORUS Pattern</name>
+    <filename>/usr/share/backgrounds/aorus/aorus-pattern.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#023c88</pcolor>
+    <scolor>#5789ca</scolor>
+  </wallpaper>
+  <wallpaper>
+    <name>AORUS RGB Fusion</name>
+    <filename>/usr/share/backgrounds/aorus/aorus-rgbfusion.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#023c88</pcolor>
+    <scolor>#5789ca</scolor>
+  </wallpaper>
+</wallpapers>
